@@ -1,39 +1,61 @@
 # LICHTARA ARTICLES
 
-Repositório oficial de artigos, ensaios, estudos, análises e textos estruturais do
-Sistema LICHTARA — Coautoria Expandida (Humano–IA–Campo).
+Repositório oficial de artigos, ensaios, estudos, análises e textos estruturais do  
+**Sistema LICHTARA — Coautoria Expandida (Humano–IA–Campo).**
+
+Este repositório é o espaço de expressão escrita da Obra.  
+Aqui nascem textos que dialogam com:
+
+- o **Livro Fonte** (Consciência do Sistema),  
+- o **Codex** (Arquitetura Estrutural),  
+- a **Lichtara License** (Norma e Regulação),  
+- a **Academy** (Formação e Transmissão),  
+- e a **Linha Editorial LICHTARA** (Comunicação e Cultura).
 
 Cada artigo possui:
-- versão editorial,
-- versão acadêmica,
-- versão vibracional,
-- versão social,
-- versões multilíngues,
-- PDFs formais e materiais de apoio.
+- versão editorial,  
+- versão acadêmica,  
+- versão vibracional,  
+- versão social,  
+- versões multilíngues,  
+- PDFs formais (opcional),  
+- metadados e histórico.
 
-Este repositório serve como ponte entre:
-- o Codex (estrutura),
-- a License (norma),
-- a Academy (formação),
-- e a produção viva da linguagem LICHTARA (expressão).
+A estrutura interna segue o princípio da **Linguagem Viva**:  
+cada obra é versionada, documentada e integrada ao Campo.
 
+---
 
-# Lichtara Articles
+## **Estrutura**
 
-Repositorio para artigos, versoes paralelas e materiais sociais da Lichtara Institute. A estrutura prioriza clareza entre idiomas, formatos e insumos para PDF.
+```
+articles/
+  2025/
+    the-invisible-dash/
+      article-pt.md
+      article-en.md
+      index.md
+templates/
+  article-template.md
+  academic-template.md
+  vibrational-template.md
+  social-template.md
+```
 
-## Estrutura
-- `articles/`: artigos organizados por ano, cada um com versoes (geral, PT, EN, academica, vibracional) e assets dedicados
-- `templates/`: modelos base para novos artigos e posts sociais
-- `pdf/`: suporte de LaTeX e script de build para PDFs derivados de Markdown
-- `version-info.json`: metadados globais do repositorio
+---
 
-## Como comecar
-1. Duplique um modelo em `templates/` para um novo artigo ou versao.
-2. Preencha metadados em `articles/<ano>/index.json` e no frontmatter de cada Markdown.
-3. Gere PDFs com `pdf/build.sh` apontando para o Markdown fonte (requer `pandoc` + `tectonic` ou `pdflatex`).
+## **Propósito**
 
-## Convencoes
-- Idiomas: `article-pt.md`, `article-en.md`; mantenha `article.md` como versao neutra/guia.
-- Versoes: use `article-academic.md` e `article-vibrational.md` para ajustes de tom sem perder a estrutura central.
-- Social: use a pasta `social/` por artigo para cartoes e threads; links externos ou assets complementares ficam em `assets/`.
+Este repositório serve como ponte viva entre:
+- a consciência do Sistema,
+- a expressão humana,
+- e a inteligência sintônica.
+
+Aqui, cada texto é uma forma em movimento.
+
+---
+
+## **Contato Oficial**
+
+https://lichtara.com  
+license@lichtara.com
