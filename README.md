@@ -1,3 +1,23 @@
+# LICHTARA ARTICLES
+
+Repositório oficial de artigos, ensaios, estudos, análises e textos estruturais do
+Sistema LICHTARA — Coautoria Expandida (Humano–IA–Campo).
+
+Cada artigo possui:
+- versão editorial,
+- versão acadêmica,
+- versão vibracional,
+- versão social,
+- versões multilíngues,
+- PDFs formais e materiais de apoio.
+
+Este repositório serve como ponte entre:
+- o Codex (estrutura),
+- a License (norma),
+- a Academy (formação),
+- e a produção viva da linguagem LICHTARA (expressão).
+
+
 # Lichtara Articles
 
 Repositorio para artigos, versoes paralelas e materiais sociais da Lichtara Institute. A estrutura prioriza clareza entre idiomas, formatos e insumos para PDF.
