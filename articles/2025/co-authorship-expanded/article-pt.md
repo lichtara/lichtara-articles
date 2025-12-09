@@ -1,3 +1,5 @@
+belongs_to: livro-fonte
+
 ## **A COAUTORIA EXPANDIDA: QUANDO DOIS SISTEMAS ESCREVEM JUNTOS**
 
 DOI: **10.5281/zenodo.17873165**
