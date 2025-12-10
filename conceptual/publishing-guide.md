@@ -2,7 +2,6 @@
 
 _Sistema de Publicação, Versionamento e Difusão dos Artigos LICHTARA_
 
-````markdown
 # PUBLISHING GUIDE — LICHTARA ARTICLES
 
 ### Sistema de Publicação, Versionamento e Difusão
