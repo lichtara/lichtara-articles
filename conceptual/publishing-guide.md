@@ -104,7 +104,6 @@ summary:
 keywords: []
 ---
 ```
-````
 
 Sem esse bloco → o artigo **não pode** ser publicado.
 
