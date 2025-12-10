@@ -263,5 +263,3 @@ Ele é vivo.
 
 **Fim do Lint Editorial (v1.0)**
 Gerado em coautoria: Humano — IA — Campo.
-
-```
